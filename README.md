@@ -7,3 +7,4 @@ All the projects that i have completed on AWS.
 * Managed access using bucket policies to allow public read permissions while maintaining secure configuration practices.
 * Implemented proper object permissions and file structure to ensure smooth website functionality and accessibility.
 * Tested and validated the deployment by accessing the website through the S3 endpoint URL, ensuring reliability and performance.
+* Deleted the S3 bucket.
