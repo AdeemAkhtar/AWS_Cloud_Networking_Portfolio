@@ -8,3 +8,17 @@ All the projects that i have completed on AWS.
 * Implemented proper object permissions and file structure to ensure smooth website functionality and accessibility.
 * Tested and validated the deployment by accessing the website through the S3 endpoint URL, ensuring reliability and performance.
 * Deleted the S3 bucket.
+
+## Project 2: Cloud Security with IAM
+### Tools and concepts
+Services I used were:
+1. EC2 
+2. IAM
+3. Policy Simulator
+
+Key concepts I learnt include:
+1. IAM User
+2. IAM Group
+3. IAM Roles
+4. IAM Policies
+5. IAM policy testing
