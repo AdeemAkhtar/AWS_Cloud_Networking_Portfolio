@@ -8,9 +8,7 @@
 **Email:** adeemakhtar@gmail.com
 
 ---
-
-![Image](http://learn.nextwork.org/satisfied_silver_bold_rose_apple/uploads/aws-host-a-website-on-s3_5d4474f9)
-
+![<# alt text #>](architecture.png "Screenshot")
 ---
 
 ## Introducing Today's Project!
