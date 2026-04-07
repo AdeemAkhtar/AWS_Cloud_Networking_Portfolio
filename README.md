@@ -22,3 +22,19 @@ Key concepts I learnt include:
 3. IAM Roles
 4. IAM Policies
 5. IAM policy testing
+
+## [Project 3: Build a Virtual Private Cloud (Video_Link)](https://drive.google.com/file/d/1TrkS8fLGLnYy5QIaT-mGCQUgsP-2GFDA/view?usp=sharing)
+* Built and deleted the architecture using AWS Management Console and Cloud Shell
+Services Used:
+* VPC
+* Subnet
+* Internet Gateway
+
+## [Project 4: AWS VPC Traffic Flow and Security (Video_Link)](https://drive.google.com/file/d/1KJet6D-SybEgUqzAENpn_keg070trCXF/view?usp=sharing)
+* Built and deleted a secure traffic flow architecture with following services using AWS Management Console and Cloud Shell
+Services Used:
+* VPC
+* Subnet
+* Internet Gateway
+* Route table
+* Security Group
