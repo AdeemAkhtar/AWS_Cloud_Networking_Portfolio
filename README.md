@@ -29,6 +29,7 @@ Services Used:
 * VPC
 * Subnet
 * Internet Gateway
+<<<<<<< HEAD
 
 ## [Project 4: AWS VPC Traffic Flow and Security (Video_Link)](https://drive.google.com/file/d/1KJet6D-SybEgUqzAENpn_keg070trCXF/view?usp=sharing)
 * Built and deleted a secure traffic flow architecture with following services using AWS Management Console and Cloud Shell
@@ -38,3 +39,5 @@ Services Used:
 * Internet Gateway
 * Route table
 * Security Group
+=======
+>>>>>>> a163deaa7c1e63fbfa6d25d2480acabab14187f0
