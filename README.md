@@ -35,11 +35,20 @@ Services Used:
 
 ## [Project 4: AWS VPC Traffic Flow and Security (Video_Link)](https://drive.google.com/file/d/1KJet6D-SybEgUqzAENpn_keg070trCXF/view?usp=sharing)
 ![<# alt text #>](4_AWS_VPC_Traffic_Flow_and_Security/Architecture.png "Screenshot")
-* Built and deleted a secure traffic flow architecture with following services using AWS Management Console and Cloud Shell
+* Built and deleted a secure traffic flow architecture with the following services using AWS Management Console and Cloud Shell
 Services Used:
 * VPC
-* Subnet
+* Public Subnet
 * Internet Gateway
 * Route table
 * Security Group
 
+## [Project 5: AWS Creating a Private Subnet (Video_Link)](https://drive.google.com/file/d/12O8NL8HRHBP1j14VvoEGN-R8bBdu2Opd/view?usp=sharing)
+![<# alt text #>](5_AWS_Creating_a_Private_Subnet/Architecture.png "Screenshot")
+* Built and deleted a secure traffic flow architecture using Public and Private Subnets in AWS VPC with the following services using AWS Management Console
+Services Used:
+* VPC
+* Public and Private Subnets
+* Internet Gateway
+* Route tables
+* Security Groups
