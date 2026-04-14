@@ -52,3 +52,14 @@ Services Used:
 * Internet Gateway
 * Route tables
 * Security Groups
+
+## [Project 6: Launching Resources in VPC (Video_Link)](https://drive.google.com/file/d/1W7O8szBykElY5jTCEkJ3N9KmKjyRk6SD/view?usp=drive_link)
+![<# alt text #>](6_AWS_Launching_Resources_in_VPC/Architecture.png "Screenshot")
+Services Used:
+* VPC
+* Public and Private Subnets
+* Internet Gateway
+* Route tables
+* Security Groups
+* Network Access Control Lists
+* EC2
