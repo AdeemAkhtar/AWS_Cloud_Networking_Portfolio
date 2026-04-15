@@ -13,6 +13,8 @@ All the projects that i have completed on AWS.
 * Tested and validated the deployment by accessing the website through the S3 endpoint URL, ensuring reliability and performance.
 * Deleted the S3 bucket.
 
+---
+
 ## Project (Part 2): Cloud Security with IAM
 ![<# alt text #>](2_AWS_Cloud_Security_With_IAM/Screenshot%202026-04-05%20at%209.34.09%E2%80%AFpm.png "Screenshot")
 ### Tools, concepts and Services I used were:
@@ -27,6 +29,8 @@ All the projects that i have completed on AWS.
 4. IAM Policies
 5. IAM policy testing
 
+---
+
 ## [Project (Part 3): Build a Virtual Private Cloud (Video_Link)](https://drive.google.com/file/d/1TrkS8fLGLnYy5QIaT-mGCQUgsP-2GFDA/view?usp=sharing)
 ![<# alt text #>](3_Build_a_Virtual_Private_Cloud/Architecture.png "Screenshot")
 
@@ -37,6 +41,8 @@ All the projects that i have completed on AWS.
 * VPC
 * Subnet
 * Internet Gateway
+
+---
 
 ## [Project (Part 4): AWS VPC Traffic Flow and Security (Video_Link)](https://drive.google.com/file/d/1KJet6D-SybEgUqzAENpn_keg070trCXF/view?usp=sharing)
 ![<# alt text #>](4_AWS_VPC_Traffic_Flow_and_Security/Architecture.png "Screenshot")
@@ -51,6 +57,8 @@ All the projects that i have completed on AWS.
 * Route table
 * Security Group
 
+---
+
 ## [Project (Part 5): AWS Creating a Private Subnet (Video_Link)](https://drive.google.com/file/d/12O8NL8HRHBP1j14VvoEGN-R8bBdu2Opd/view?usp=sharing)
 ![<# alt text #>](5_AWS_Creating_a_Private_Subnet/Architecture.png "Screenshot")
 
@@ -63,6 +71,8 @@ All the projects that i have completed on AWS.
 * Internet Gateway
 * Route tables
 * Security Groups
+
+---
 
 ## [Project (Part 6): Launching Resources in VPC (Video_Link)](https://drive.google.com/file/d/1W7O8szBykElY5jTCEkJ3N9KmKjyRk6SD/view?usp=drive_link)
 ![<# alt text #>](6_AWS_Launching_Resources_in_VPC/Architecture.png "Screenshot")
@@ -78,6 +88,8 @@ All the projects that i have completed on AWS.
 * Network Access Control Lists
 * EC2
 
+---
+
 ## [Project (Part 7): Launching Resources in VPC (Video_Link)](https://drive.google.com/file/d/1NNJqZXGSnFow_rLLjoOiDC6TmALAcRyz/view?usp=sharing)
 ![<# alt text #>](7_AWS_Testing%20VPC%20Connectivity/Architecture.png "Screenshot")
 
@@ -91,3 +103,6 @@ Services Used:
 * Network Access Control Lists
 * EC2
 * SSH
+
+---
+
