@@ -10,9 +10,7 @@
 ---
 
 ## Testing VPC Connectivity
-
-
-[![Watch the video](![<# alt text #>](Architecture.png "Screenshot"))](https://drive.google.com/file/d/1NNJqZXGSnFow_rLLjoOiDC6TmALAcRyz/view?usp=drive_link)
+![<# alt text #>](Architecture.png "Screenshot")
 
 ![Image](http://learn.nextwork.org/satisfied_silver_bold_rose_apple/uploads/aws-networks-connectivity_8ee57662)
 
