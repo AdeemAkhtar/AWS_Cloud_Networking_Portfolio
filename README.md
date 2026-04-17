@@ -5,7 +5,7 @@ All the projects that I have completed on AWS.
 
 ![<# alt text #>](1_AWS_Static_Web_Hosting_on_Amazon_S3/architecture.png "Screenshot")
 
-* [(Video_Link)](https://drive.google.com/file/d/1GkQ6ABX6ifVz9uYXN_te0txpFTtz4p4L/view?usp=sharing)
+* [(Video_Link: https://drive.google.com/file/d/1GkQ6ABX6ifVz9uYXN_te0txpFTtz4p4L/view?usp=sharing)](https://drive.google.com/file/d/1GkQ6ABX6ifVz9uYXN_te0txpFTtz4p4L/view?usp=sharing)
 
 * Configured an Amazon S3 bucket to host a static website, including HTML, CSS, and media assets.
 * Enabled static website hosting and set up index and error documents via the AWS Management Console.
@@ -37,7 +37,7 @@ All the projects that I have completed on AWS.
 ## [Project (Part 3): Build a Virtual Private Cloud (Video_Link)](https://drive.google.com/file/d/1TrkS8fLGLnYy5QIaT-mGCQUgsP-2GFDA/view?usp=sharing)
 ![<# alt text #>](3_Build_a_Virtual_Private_Cloud/Architecture.png "Screenshot")
 
-* [(Video_Link)](https://drive.google.com/file/d/1TrkS8fLGLnYy5QIaT-mGCQUgsP-2GFDA/view?usp=sharing)
+* [(Video_Link: https://drive.google.com/file/d/1TrkS8fLGLnYy5QIaT-mGCQUgsP-2GFDA/view?usp=sharing)](https://drive.google.com/file/d/1TrkS8fLGLnYy5QIaT-mGCQUgsP-2GFDA/view?usp=sharing)
 
 ### Services Used:
 * Built and deleted the architecture using AWS Management Console and Cloud Shell
@@ -50,7 +50,7 @@ All the projects that I have completed on AWS.
 ## [Project (Part 4): AWS VPC Traffic Flow and Security (Video_Link)](https://drive.google.com/file/d/1KJet6D-SybEgUqzAENpn_keg070trCXF/view?usp=sharing)
 ![<# alt text #>](4_AWS_VPC_Traffic_Flow_and_Security/Architecture.png "Screenshot")
 
-* [(Video_Link)](https://drive.google.com/file/d/1KJet6D-SybEgUqzAENpn_keg070trCXF/view?usp=sharing)
+* [(Video_Link: https://drive.google.com/file/d/1KJet6D-SybEgUqzAENpn_keg070trCXF/view?usp=sharing)](https://drive.google.com/file/d/1KJet6D-SybEgUqzAENpn_keg070trCXF/view?usp=sharing)
 
 ### Services Used:
 * Built and deleted a secure traffic flow architecture with the following services using AWS Management Console and Cloud Shell
@@ -65,7 +65,7 @@ All the projects that I have completed on AWS.
 ## [Project (Part 5): AWS Creating a Private Subnet (Video_Link)](https://drive.google.com/file/d/12O8NL8HRHBP1j14VvoEGN-R8bBdu2Opd/view?usp=sharing)
 ![<# alt text #>](5_AWS_Creating_a_Private_Subnet/Architecture.png "Screenshot")
 
-* [(Video_Link)](https://drive.google.com/file/d/12O8NL8HRHBP1j14VvoEGN-R8bBdu2Opd/view?usp=sharing)
+* [(Video_Link: https://drive.google.com/file/d/12O8NL8HRHBP1j14VvoEGN-R8bBdu2Opd/view?usp=sharing)](https://drive.google.com/file/d/12O8NL8HRHBP1j14VvoEGN-R8bBdu2Opd/view?usp=sharing)
 
 ### Services Used:
 * Built and deleted a secure traffic flow architecture using Public and Private Subnets in AWS VPC with the following services using AWS Management Console
@@ -81,7 +81,7 @@ All the projects that I have completed on AWS.
 
 ![<# alt text #>](6_AWS_Launching_Resources_in_VPC/Architecture.png "Screenshot")
 
-* (Video_Link)](https://drive.google.com/file/d/1W7O8szBykElY5jTCEkJ3N9KmKjyRk6SD/view?usp=drive_link)
+* [(Video_Link: https://drive.google.com/file/d/1W7O8szBykElY5jTCEkJ3N9KmKjyRk6SD/view?usp=drive_link)](https://drive.google.com/file/d/1W7O8szBykElY5jTCEkJ3N9KmKjyRk6SD/view?usp=drive_link)
 
 ### Services Used:
 * VPC
@@ -98,7 +98,7 @@ All the projects that I have completed on AWS.
 
 ![<# alt text #>](7_AWS_Testing%20VPC%20Connectivity/Architecture.png "Screenshot")
 
-(Video_Link)](https://drive.google.com/file/d/1NNJqZXGSnFow_rLLjoOiDC6TmALAcRyz/view?usp=sharing)
+[(Video_Link: https://drive.google.com/file/d/1NNJqZXGSnFow_rLLjoOiDC6TmALAcRyz/view?usp=sharing)](https://drive.google.com/file/d/1NNJqZXGSnFow_rLLjoOiDC6TmALAcRyz/view?usp=sharing)
 
 ### Services Used:
 * VPC
@@ -117,7 +117,7 @@ All the projects that I have completed on AWS.
 
 ![<# alt text #>](8_AWS_VPC_Peering/Architecture.png "Screenshot")
 
-(Video_Link)](https://drive.google.com/file/d/1_8hTNr5CoVXkbJEhPIkr6gxRMYO2885M/view?usp=sharing)
+[(Video_Link: https://drive.google.com/file/d/1_8hTNr5CoVXkbJEhPIkr6gxRMYO2885M/view?usp=sharing )](https://drive.google.com/file/d/1_8hTNr5CoVXkbJEhPIkr6gxRMYO2885M/view?usp=sharing)
 
 ### Services Used:
 * VPC
