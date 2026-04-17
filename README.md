@@ -99,7 +99,8 @@ All the projects that I have completed on AWS.
 ![<# alt text #>](7_AWS_Testing%20VPC%20Connectivity/Architecture.png "Screenshot")
 
 (Video_Link)](https://drive.google.com/file/d/1NNJqZXGSnFow_rLLjoOiDC6TmALAcRyz/view?usp=sharing)
-Services Used:
+
+### Services Used:
 * VPC
 * Public and Private Subnets
 * Internet Gateway
@@ -117,7 +118,8 @@ Services Used:
 ![<# alt text #>](8_AWS_VPC_Peering/Architecture.png "Screenshot")
 
 (Video_Link)](https://drive.google.com/file/d/1_8hTNr5CoVXkbJEhPIkr6gxRMYO2885M/view?usp=sharing)
-Services Used:
+
+### Services Used:
 * VPC
 * Public Subnets
 * Internet Gateway
