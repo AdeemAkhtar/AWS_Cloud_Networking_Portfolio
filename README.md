@@ -152,3 +152,40 @@ All the projects that I have completed on AWS.
 * SSH
 * Elastic IP
 * Peering Connection
+
+---
+
+## [Project (Part 10): VPC Monitoring
+
+![<# alt text #>](10_Access_S3_from_a_VPC/architecture.png "Screenshot")
+
+### Services Used:
+
+* S3
+* IAM
+* VPC
+* Public Subnets
+* Internet Gateway
+* Route tables
+* Security Groups
+* Network Access Control Lists
+* EC2
+* SSH
+
+## [Project (Part 11): VPC Endpoints
+
+![<# alt text #>](11_VPC_Endpoints/Architecture.png "Screenshot")
+
+### Services Used:
+
+* S3
+* IAM
+* VPC
+* Public Subnets
+* Internet Gateway
+* Route tables
+* Security Groups
+* Network Access Control Lists
+* EC2
+* SSH
+* Endpoints
